@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\servicios\\episodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:servicios\\episodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\models\\episodios_rym_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:models\\episodios_rym_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\util\\errorhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:util\\errorhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:controllers\\episodios_rym_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\models\\episodios_rym_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:models\\episodios_rym_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\servicios\\episodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:servicios\\episodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\servicios\\iepisodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:servicios\\iepisodios_rym_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|c:\\users\\andres\\desktop\\pruebas_tecnicas\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebatecnicacarsales_back\\pruebatecnicacarsales_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494BE0FE-8E6D-4396-AC6B-67FB0AB8517D}|PruebaTecnicaCarsales_Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ErrorHandling.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Util\\ErrorHandling.cs",
               "RelativeDocumentMoniker": "Util\\ErrorHandling.cs",
               "ToolTip": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Util\\ErrorHandling.cs",
               "RelativeToolTip": "Util\\ErrorHandling.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T19:14:10.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T18:37:57.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IEpisodios_RyM_Servicios.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Servicios\\IEpisodios_RyM_Servicios.cs",
               "RelativeDocumentMoniker": "Servicios\\IEpisodios_RyM_Servicios.cs",
@@ -83,14 +83,14 @@
               "RelativeDocumentMoniker": "Models\\Episodios_RyM_Models.cs",
               "ToolTip": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Models\\Episodios_RyM_Models.cs",
               "RelativeToolTip": "Models\\Episodios_RyM_Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:32:00.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Episodios_RyM_Controller.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Controllers\\Episodios_RyM_Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Episodios_RyM_Controller.cs",
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Episodios_RyM_Servicios.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Servicios\\Episodios_RyM_Servicios.cs",
               "RelativeDocumentMoniker": "Servicios\\Episodios_RyM_Servicios.cs",
               "ToolTip": "C:\\Users\\Andres\\Desktop\\Pruebas_Tecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales_Back\\PruebaTecnicaCarsales_Back\\Servicios\\Episodios_RyM_Servicios.cs",
               "RelativeToolTip": "Servicios\\Episodios_RyM_Servicios.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T18:33:47.11Z",
               "EditorCaption": ""
