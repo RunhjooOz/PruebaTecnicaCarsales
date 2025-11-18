@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "PruebaTecnicaCarsales_Back.Controllers.Episodios_RyM_Controller",
+    "Method": "GetEpisodios",
+    "RelativePath": "Episodios_RyM_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaCarsales_Back.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PruebaTecnicaCarsales_Back.WeatherForecast, PruebaTecnicaCarsales_Back, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
